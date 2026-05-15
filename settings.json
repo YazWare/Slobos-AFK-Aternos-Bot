@@ -28,8 +28,7 @@
     },
     "chat-messages": {
       "enabled": true,
-      "repeat": true,
-      "repeat-delay": 3600000,
+      "repeat": false,
       "messages": [
         "burp",
         "santé!"
